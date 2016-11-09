@@ -27,7 +27,7 @@ Aplikasi Penilaian Siswa ini terdapat:
 - Lalu klik Button PROSES
 - Setelah itu data akan keluar pada Text Area
 
-**Contoh Gambar** Dari Aplikasi AdvancedWidget2:
+**Contoh Gambar** Dari Aplikasi Penilaian Siswa:
 
 ![penilaian 1](https://github.com/Ainnaya/PENILAIAN-NetBeans/blob/f9ab11259f706616c6d6b35ee341681d8d977c59/penilaian%201.png)
 ![penilaian 2](https://github.com/Ainnaya/PENILAIAN-NetBeans/blob/f9ab11259f706616c6d6b35ee341681d8d977c59/penilaian%202.png)
